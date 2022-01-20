@@ -1,16 +1,22 @@
-# delimeals
 
-A new Flutter project.
 
-## Getting Started
+# Deli Meals ⚡️
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## What I made
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I build a modern food recipe app where users can select from different categories add to fav and each one have details of steps to make and ingredients required .
+
+
+## What I learn
+
+
+- How to create beautiful animations using the Flutter Hero widget.
+- How to create custom aniamtions using Flutter's animation controller. 
+- Learned all about mixins and how they differ from superclasses.
+- Learned to use ListViews to build scrolling views.
+- How to use Drawers in Flutter 
+- How to use navigation 
+- How to use bottom_navigation bar
+-
